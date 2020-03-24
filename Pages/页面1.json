@@ -3,46 +3,7 @@
     "Count": 45
   },
   "Cols": {
-    "Sizes": {
-      "22": 240.0
-    },
     "Count": 60
-  },
-  "AttachInfos": {
-    "12,22": {
-      "CellType": {
-        "$type": "Forguncy.DropDownListCellType, Forguncy",
-        "TemplateKey": "_RS_LightLine_Translucent_SmallRoundCorner_Normal1",
-        "Items": [
-          {
-            "Value": "项目1",
-            "DisplayValue": "项目1"
-          },
-          {
-            "Value": "项目2",
-            "DisplayValue": "项目2"
-          },
-          {
-            "Value": "项目3",
-            "DisplayValue": "项目3"
-          }
-        ],
-        "UIPermissions": [
-          {
-            "Scope": 2,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          },
-          {
-            "Scope": 1,
-            "AllowRoles": [
-              "FGC_Anonymous"
-            ]
-          }
-        ]
-      }
-    }
   },
   "StyleDatas": {
     "Types": {
