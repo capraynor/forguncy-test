@@ -81,7 +81,16 @@
   },
   {
     "ModuleName": "页面1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "XA-DD3-RAYNORLA\\admin",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2020-03-24T11:57:59.4329573+08:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\页面1.json"
+    ]
   },
   {
     "ModuleName": "FGC_母版页",
